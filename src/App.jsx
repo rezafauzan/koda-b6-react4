@@ -2,6 +2,7 @@ import "./pages/Home"
 import "./pages/About"
 import "./pages/Contact"
 import './App.css'
+import { createBrowserRouter, RouterProvider } from "react-router-dom"
 
 const router = createBrowserRouter(
     [
