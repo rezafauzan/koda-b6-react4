@@ -1,5 +1,7 @@
 # React App with react-router-dom
 
-## install
-- npm create vite@latest nama_app -- --template react
-- npm i react-router-dom tailwindcss @tailwindcss/vite
+## How To Run It
+- Download source code
+- npm install
+- npm run dev
+- open https://localhost:5173
