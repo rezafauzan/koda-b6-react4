@@ -7,6 +7,12 @@ Slicing a website from a refference image
 ## Sliced Home Page Screenshoot
 ![Sliced Home Page Screenshoot](public/assets/img/Screenshoot/homepage.png)
 
+## About Page Screenshoot
+![About Page Screenshoot](public/assets/img/Screenshoot/aboutpage.png)
+
+## Contact Page Screenshoot
+![Contact Page Screenshoot](public/assets/img/Screenshoot/contactpage.png)
+
 ## How To Run It
 - Download source code
 - npm install
