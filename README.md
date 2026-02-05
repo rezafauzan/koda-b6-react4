@@ -1,4 +1,11 @@
 # React App with react-router-dom
+Slicing a website from a refference image
+
+## Refference
+![Image Refference from pinterest](public/assets/img/refference/Web%20Design%20Trends%20Predictions%202021.jpg)
+
+## Sliced Home Page Screenshoot
+![Sliced Home Page Screenshoot](public/assets/img/Screenshoot/homepage.png)
 
 ## How To Run It
 - Download source code
